@@ -9,3 +9,10 @@ password : admin
 
 <b>Mampir yo di blog gua : </b>
 https://www.himang.my.id/
+
+
+<p align="center">
+  <a href="https://github.com/himangmyid/MateS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himangmyid&repo=MateS&theme=tokyonight" alt="GitHub Repo Card">
+  </a>
+</p>
